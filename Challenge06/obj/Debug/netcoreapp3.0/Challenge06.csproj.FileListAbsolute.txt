@@ -1,0 +1,11 @@
+D:\refactory\Challenge06\bin\Debug\netcoreapp3.0\Challenge06.exe
+D:\refactory\Challenge06\bin\Debug\netcoreapp3.0\Challenge06.deps.json
+D:\refactory\Challenge06\bin\Debug\netcoreapp3.0\Challenge06.runtimeconfig.json
+D:\refactory\Challenge06\bin\Debug\netcoreapp3.0\Challenge06.runtimeconfig.dev.json
+D:\refactory\Challenge06\bin\Debug\netcoreapp3.0\Challenge06.dll
+D:\refactory\Challenge06\bin\Debug\netcoreapp3.0\Challenge06.pdb
+D:\refactory\Challenge06\obj\Debug\netcoreapp3.0\Challenge06.csprojAssemblyReference.cache
+D:\refactory\Challenge06\obj\Debug\netcoreapp3.0\Challenge06.AssemblyInfoInputs.cache
+D:\refactory\Challenge06\obj\Debug\netcoreapp3.0\Challenge06.AssemblyInfo.cs
+D:\refactory\Challenge06\obj\Debug\netcoreapp3.0\Challenge06.dll
+D:\refactory\Challenge06\obj\Debug\netcoreapp3.0\Challenge06.pdb

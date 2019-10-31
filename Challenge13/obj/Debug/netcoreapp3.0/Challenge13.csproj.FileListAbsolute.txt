@@ -1,0 +1,11 @@
+D:\refactory\Challenge13\bin\Debug\netcoreapp3.0\Challenge13.exe
+D:\refactory\Challenge13\bin\Debug\netcoreapp3.0\Challenge13.deps.json
+D:\refactory\Challenge13\bin\Debug\netcoreapp3.0\Challenge13.runtimeconfig.json
+D:\refactory\Challenge13\bin\Debug\netcoreapp3.0\Challenge13.runtimeconfig.dev.json
+D:\refactory\Challenge13\bin\Debug\netcoreapp3.0\Challenge13.dll
+D:\refactory\Challenge13\bin\Debug\netcoreapp3.0\Challenge13.pdb
+D:\refactory\Challenge13\obj\Debug\netcoreapp3.0\Challenge13.csprojAssemblyReference.cache
+D:\refactory\Challenge13\obj\Debug\netcoreapp3.0\Challenge13.AssemblyInfoInputs.cache
+D:\refactory\Challenge13\obj\Debug\netcoreapp3.0\Challenge13.AssemblyInfo.cs
+D:\refactory\Challenge13\obj\Debug\netcoreapp3.0\Challenge13.dll
+D:\refactory\Challenge13\obj\Debug\netcoreapp3.0\Challenge13.pdb

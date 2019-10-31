@@ -1,0 +1,11 @@
+D:\refactory\Challenge19\obj\Debug\netcoreapp3.0\Challenge19.csprojAssemblyReference.cache
+D:\refactory\Challenge19\obj\Debug\netcoreapp3.0\Challenge19.AssemblyInfoInputs.cache
+D:\refactory\Challenge19\obj\Debug\netcoreapp3.0\Challenge19.AssemblyInfo.cs
+D:\refactory\Challenge19\bin\Debug\netcoreapp3.0\Challenge19.exe
+D:\refactory\Challenge19\bin\Debug\netcoreapp3.0\Challenge19.deps.json
+D:\refactory\Challenge19\bin\Debug\netcoreapp3.0\Challenge19.runtimeconfig.json
+D:\refactory\Challenge19\bin\Debug\netcoreapp3.0\Challenge19.runtimeconfig.dev.json
+D:\refactory\Challenge19\bin\Debug\netcoreapp3.0\Challenge19.dll
+D:\refactory\Challenge19\bin\Debug\netcoreapp3.0\Challenge19.pdb
+D:\refactory\Challenge19\obj\Debug\netcoreapp3.0\Challenge19.dll
+D:\refactory\Challenge19\obj\Debug\netcoreapp3.0\Challenge19.pdb
